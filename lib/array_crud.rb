@@ -1,8 +1,9 @@
 def create_an_empty_array
-  
+  []
 end
 
-def create_an_array
+def create_an_array(n1, n2, n3, n4)
+  return [n1, n2, n3, n4]
   
 end
 
